@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Рабочий стол\okr\bin\Debug\net6.0\okr.exe
+C:\Users\Admin\OneDrive\Рабочий стол\okr\bin\Debug\net6.0\okr.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\okr\bin\Debug\net6.0\okr.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\okr\bin\Debug\net6.0\okr.dll
+C:\Users\Admin\OneDrive\Рабочий стол\okr\bin\Debug\net6.0\okr.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.dll
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\refint\okr.dll
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\okr.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\okr\obj\Debug\net6.0\ref\okr.dll
